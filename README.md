@@ -8,7 +8,7 @@
 <!-- ░░░ ANIMACIÓN DE ESCRITURA ░░░ -->
 <br/><br/>
 <a href="https://obsidian-sec.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=560&lines=Red+team+y+seguridad+ofensiva;Construyo+las+herramientas+que+uso;Pienso+como+el+atacante" alt="escritura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=580&lines=Red+team+y+seguridad+ofensiva;Emulaci%C3%B3n+de+adversarios+e+inteligencia;Desarrollo+de+tooling+y+plataformas" alt="escritura"/>
 </a>
 
 <br/>
@@ -26,32 +26,30 @@
 
 </div>
 
-## Hola, soy Yad 👋
+## Sobre mí
 
-Fundé **Obsidian-Sec** porque me aburrían las auditorías que terminan en un PDF que nadie lee.
-Lo mío es el red team de verdad: entrar, demostrar el impacto real y dejar al equipo de
-defensa mejor de lo que estaba.
+Soy **Yad Carias**, fundador y CEO de **[Obsidian-Sec](https://obsidian-sec.com)**. Dirijo
+operaciones de red team y seguridad ofensiva para organizaciones que necesitan saber, con
+evidencia y no con suposiciones, hasta dónde puede llegar un atacante real contra ellas.
 
-Paso el día entre el código y la consola. Lo mismo escribo un implante en Rust por la mañana
-que por la tarde estoy levantando el panel donde el cliente ve sus hallazgos en vivo. Me gusta
-entender las cosas hasta el fondo — por eso, cuando una herramienta no existe o no me convence,
-la construyo.
+Mi trabajo combina dirección y técnica. Defino la estrategia de la empresa y, al mismo tiempo,
+desarrollo las herramientas y plataformas que sostienen nuestras operaciones: del código de
+bajo nivel en C y Rust hasta los paneles donde cada cliente sigue sus hallazgos en tiempo real.
 
-**En qué ando ahora:**
-- Haciendo crecer Obsidian-Sec y su equipo.
-- Afilando tooling propio para operaciones de red team.
-- Metido en exploit dev, análisis de malware y ataques a la nube.
+**En lo que me enfoco hoy:**
+- Consolidar a Obsidian-Sec como un socio de seguridad de referencia.
+- Desarrollar tooling propio para operaciones de red team.
+- Investigación en exploit dev, análisis de malware y seguridad en la nube.
 
-Si quieres hablar de seguridad ofensiva, montar algo juntos o reportar algo de forma
-responsable, mi correo es **yad@obsidian-sec.com**. Respondo.
+Para colaboraciones, consultoría o divulgación responsable: **yad@obsidian-sec.com**.
 
 <div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
 
-## Con qué trabajo
+## Tecnologías
 
 <div align="center">
 
-**Lo que más uso**
+**Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -60,7 +58,7 @@ responsable, mi correo es **yad@obsidian-sec.com**. Respondo.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Para la web y el producto**
+**Desarrollo y producto**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -69,7 +67,7 @@ responsable, mi correo es **yad@obsidian-sec.com**. Respondo.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**En el terreno (offensive)**
+**Seguridad ofensiva**
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -77,7 +75,7 @@ responsable, mi correo es **yad@obsidian-sec.com**. Respondo.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-CF2A27?style=for-the-badge&logo=ghidra&logoColor=white)
 
-**Donde lo despliego**
+**Nube e infraestructura**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -89,7 +87,7 @@ responsable, mi correo es **yad@obsidian-sec.com**. Respondo.
 
 <div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
 
-## Lo que va pasando por aquí
+## Actividad en GitHub
 
 <div align="center">
 
