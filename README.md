@@ -16,9 +16,9 @@
 
 <!-- ░░░ INSIGNIAS DE CONTACTO ░░░ -->
 <a href="https://obsidian-sec.com"><img src="https://img.shields.io/badge/Sitio%20web-obsidian--sec.com-6E3BFF?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yahmed-carias"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yad@obsidian-sec.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/"><img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/YadCarias"><img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=x099&label=Visitas%20al%20perfil&color=6e3bff&style=flat-square" alt="visitas"/>
