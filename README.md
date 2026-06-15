@@ -8,7 +8,7 @@
 <!-- ░░░ ANIMACIÓN DE ESCRITURA ░░░ -->
 <br/><br/>
 <a href="https://obsidian-sec.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=580&lines=Red+team+y+seguridad+ofensiva;Emulaci%C3%B3n+de+adversarios+e+inteligencia;Desarrollo+de+tooling+y+plataformas" alt="escritura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=Red+team+y+seguridad+ofensiva;Inteligencia+artificial+aplicada+a+la+seguridad;Desarrollo+%C3%A1gil+de+tooling+y+plataformas;Seguridad+en+IoT+y+la+nube" alt="escritura"/>
 </a>
 
 <br/>
@@ -33,13 +33,15 @@ operaciones de red team y seguridad ofensiva para organizaciones que necesitan s
 evidencia y no con suposiciones, hasta dónde puede llegar un atacante real contra ellas.
 
 Mi trabajo combina dirección y técnica. Defino la estrategia de la empresa y, al mismo tiempo,
-desarrollo las herramientas y plataformas que sostienen nuestras operaciones: del código de
+desarrollo las herramientas y plataformas que sostienen nuestras operaciones, del código de
 bajo nivel en C y Rust hasta los paneles donde cada cliente sigue sus hallazgos en tiempo real.
+Usamos y creamos **inteligencia artificial** en nuestros productos y procesos, trabajamos con
+**metodologías ágiles** y extendemos la seguridad también al terreno del **IoT**.
 
 **En lo que me enfoco hoy:**
 - Consolidar a Obsidian-Sec como un socio de seguridad de referencia.
-- Desarrollar tooling propio para operaciones de red team.
-- Investigación en exploit dev, análisis de malware y seguridad en la nube.
+- Construir productos de IA propios para reforzar y acelerar nuestras operaciones.
+- Investigación en exploit dev, seguridad de IoT y seguridad en la nube.
 
 Para colaboraciones, consultoría o divulgación responsable: **yad@obsidian-sec.com**.
 
@@ -74,6 +76,28 @@ Para colaboraciones, consultoría o divulgación responsable: **yad@obsidian-sec
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-CF2A27?style=for-the-badge&logo=ghidra&logoColor=white)
+
+**Inteligencia artificial**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**IoT**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Metodología ágil**
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Nube e infraestructura**
 
