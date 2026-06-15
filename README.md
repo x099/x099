@@ -4,10 +4,13 @@
 
 <div align="center">
 
-<!-- ░░░ CABECERA ANIMADA ░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6e3bff&height=210&section=header&text=Yad%20Carias&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Fundador%20%26%20CEO%20en%20Obsidian-Sec&descAlignY=58&descSize=18&animation=fadeIn" alt="cabecera"/>
+<!-- ░░░ CABECERA ANIMADA (SVG propio — carga fiable) ░░░ -->
+<a href="https://obsidian-sec.com">
+  <img width="100%" src="./assets/header.svg" alt="Yad Carias — Fundador y CEO en Obsidian-Sec"/>
+</a>
 
 <!-- ░░░ ANIMACIÓN DE ESCRITURA ░░░ -->
+<br/>
 <a href="https://obsidian-sec.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E3BFF&center=true&vCenter=true&width=640&lines=Seguridad+ofensiva+y+Red+Team;Desarrollo+de+plataformas+y+herramientas;Inteligencia+de+amenazas+y+emulaci%C3%B3n+de+adversarios;Convertir+riesgo+en+resiliencia" alt="escritura"/>
 </a>
@@ -23,17 +26,17 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=x099&label=Visitas%20al%20perfil&color=6e3bff&style=flat-square" alt="visitas"/>
 
+<br/><br/>
+<img width="100%" src="./assets/divider.svg" alt=""/>
+
 </div>
 
----
-
-## Perfil
+## &nbsp;🛡️&nbsp; Perfil
 
 Fundador y CEO de **[Obsidian-Sec](https://obsidian-sec.com)**, firma de seguridad ofensiva
 especializada en **Red Team**, **emulación de adversarios** e **inteligencia de amenazas**.
-Combino una visión de negocio con experiencia técnica profunda: del desarrollo de
-herramientas y plataformas a la dirección de operaciones que elevan la postura de
-seguridad de nuestros clientes.
+Combino una visión de negocio con experiencia técnica profunda: del desarrollo de herramientas y
+plataformas a la dirección de operaciones que elevan la postura de seguridad de los clientes.
 
 ```python
 class YadCarias:
@@ -43,15 +46,30 @@ class YadCarias:
     valores  = ["Rigor", "Discreción", "Impacto medible"]
 ```
 
-- 🛡️ &nbsp;Dirijo **[Obsidian-Sec](https://obsidian-sec.com)** — seguridad ofensiva y emulación de adversarios.
-- 🧑‍💻 &nbsp;**Desarrollo full-stack**: del exploit en C/Rust a la plataforma web en TypeScript/React.
-- 🔧 &nbsp;Construyo herramientas para **Red Teams**, **threat hunters** y **Blue Teams**.
-- 🤝 &nbsp;Abierto a investigación en seguridad y programas de divulgación responsable.
-- 📫 &nbsp;Contacto profesional: **yad@obsidian-sec.com**
+<div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
 
----
+## &nbsp;🎯&nbsp; Qué hago
 
-## Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">⚔️ Red Team</h3>
+      <p align="center">Emulación de adversarios y pruebas de intrusión avanzadas para validar defensas reales.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Threat Intel</h3>
+      <p align="center">Inteligencia de amenazas y caza proactiva para anticipar al atacante.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🧑‍💻 Desarrollo</h3>
+      <p align="center">Plataformas y herramientas a medida, del exploit en C/Rust al panel web.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
+
+## &nbsp;🧰&nbsp; Stack
 
 <div align="center">
 
@@ -91,9 +109,9 @@ class YadCarias:
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
 
-## Actividad en GitHub
+## &nbsp;📊&nbsp; Actividad en GitHub
 
 <div align="center">
 
@@ -115,7 +133,7 @@ class YadCarias:
 
 </div>
 
----
+<div align="center"><img width="100%" src="./assets/divider.svg" alt=""/></div>
 
 <div align="center">
 
