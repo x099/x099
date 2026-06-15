@@ -12,19 +12,19 @@
 <!-- ░░░ ANIMACIÓN DE ESCRITURA ░░░ -->
 <br/>
 <a href="https://obsidian-sec.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E3BFF&center=true&vCenter=true&width=640&lines=Seguridad+ofensiva+y+Red+Team;Desarrollo+de+plataformas+y+herramientas;Inteligencia+de+amenazas+y+emulaci%C3%B3n+de+adversarios;Convertir+riesgo+en+resiliencia" alt="escritura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=640&lines=Seguridad+ofensiva+y+Red+Team;Desarrollo+de+plataformas+y+herramientas;Inteligencia+de+amenazas+y+emulaci%C3%B3n+de+adversarios;Convertir+riesgo+en+resiliencia" alt="escritura"/>
 </a>
 
 <br/>
 
 <!-- ░░░ INSIGNIAS DE CONTACTO ░░░ -->
-<a href="https://obsidian-sec.com"><img src="https://img.shields.io/badge/Sitio%20web-obsidian--sec.com-6E3BFF?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
+<a href="https://obsidian-sec.com"><img src="https://img.shields.io/badge/Sitio%20web-obsidian--sec.com-22C55E?style=for-the-badge&logo=hackthebox&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yahmed-carias"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:yad@obsidian-sec.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/YadCarias"><img src="https://img.shields.io/badge/X-Seguir-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=x099&label=Visitas%20al%20perfil&color=6e3bff&style=flat-square" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=x099&label=Visitas%20al%20perfil&color=22c55e&style=flat-square" alt="visitas"/>
 
 <br/><br/>
 <img width="100%" src="./assets/divider.svg" alt=""/>
@@ -115,13 +115,13 @@ class YadCarias:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=x099&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6e3bff&icon_color=6e3bff&count_private=true&locale=es"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x099&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6e3bff&locale=es&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=x099&show_icons=true&hide_border=true&bg_color=05050b&title_color=22c55e&icon_color=4ade80&text_color=94a3b8&count_private=true&locale=es"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x099&layout=compact&hide_border=true&bg_color=05050b&title_color=22c55e&text_color=94a3b8&locale=es&langs_count=8"/>
 
 <br/>
 
 <!-- ░░░ GRÁFICO DE ACTIVIDAD (línea animada) ░░░ -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=x099&bg_color=0d1117&color=6e3bff&line=6e3bff&point=ffffff&area=true&hide_border=true" alt="actividad"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=x099&bg_color=05050b&color=22c55e&line=4ade80&point=ffffff&area=true&hide_border=true" alt="actividad"/>
 
 <br/><br/>
 
@@ -139,6 +139,6 @@ class YadCarias:
 
 > *La seguridad no es un producto, es un proceso.* — Bruce Schneier
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e3bff,50:1a1a2e,100:0d1117&height=110&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:13131f,100:05050b&height=110&section=footer&animation=fadeIn"/>
 
 </div>
