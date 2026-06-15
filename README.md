@@ -8,7 +8,7 @@
 <!-- ░░░ ANIMACIÓN DE ESCRITURA ░░░ -->
 <br/><br/>
 <a href="https://obsidian-sec.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=600&lines=Red+team+y+seguridad+ofensiva;Inteligencia+artificial+aplicada+a+la+seguridad;Desarrollo+%C3%A1gil+de+tooling+y+plataformas;Seguridad+en+IoT+y+la+nube" alt="escritura"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=620&lines=Red+team+y+seguridad+ofensiva;Inteligencia+artificial+aplicada+a+la+seguridad;Desarrollo+de+software+y+automatizaciones;Seguridad+en+IoT+y+la+nube" alt="escritura"/>
 </a>
 
 <br/>
@@ -33,14 +33,16 @@ operaciones de red team y seguridad ofensiva para organizaciones que necesitan s
 evidencia y no con suposiciones, hasta dónde puede llegar un atacante real contra ellas.
 
 Mi trabajo combina dirección y técnica. Defino la estrategia de la empresa y, al mismo tiempo,
-desarrollo las herramientas y plataformas que sostienen nuestras operaciones, del código de
-bajo nivel en C y Rust hasta los paneles donde cada cliente sigue sus hallazgos en tiempo real.
-Usamos y creamos **inteligencia artificial** en nuestros productos y procesos, trabajamos con
-**metodologías ágiles** y extendemos la seguridad también al terreno del **IoT**.
+desarrollamos software a medida, herramientas y automatizaciones que sostienen nuestras
+operaciones, del código de bajo nivel en C y Rust hasta los paneles donde cada cliente sigue
+sus hallazgos en tiempo real. Usamos y creamos **inteligencia artificial** en nuestros productos
+y procesos, trabajamos con **metodologías ágiles** y extendemos la seguridad también al terreno
+del **IoT**.
 
 **En lo que me enfoco hoy:**
 - Consolidar a Obsidian-Sec como un socio de seguridad de referencia.
-- Construir productos de IA propios para reforzar y acelerar nuestras operaciones.
+- Desarrollo de software a medida y automatizaciones para nuestras operaciones y las de clientes.
+- Construir productos de IA propios para reforzar y acelerar el trabajo del equipo.
 - Investigación en exploit dev, seguridad de IoT y seguridad en la nube.
 
 Para colaboraciones, consultoría o divulgación responsable: **yahmed@obsidian-sec.com**.
@@ -58,7 +60,8 @@ Para colaboraciones, consultoría o divulgación responsable: **yahmed@obsidian-
 | **Seguridad ofensiva** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-CF2A27?style=for-the-badge&logo=ghidra&logoColor=white) |
 | **Inteligencia artificial** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) |
 | **IoT** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) |
-| **Metodología ágil** | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Automatización** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **Metodología ágil** | ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **Nube e infraestructura** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 </div>
